@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
