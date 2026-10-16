@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0367-valid-perfect-square) |
 | [1922-count-good-numbers](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
