@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0367-valid-perfect-square) |
@@ -80,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0367-valid-perfect-square) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/samratjaiswal1114/DSA_leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
